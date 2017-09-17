@@ -1,0 +1,74 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background: grey;
+}
+
+#navegacao{
+	height: 45px;
+	background: #FFF;
+	border-bottom: 1px solid #d8d8d8;
+	width: 100%;
+}
+
+#area{
+	width: 720px;
+	margin: 0 auto;
+}
+
+#logo{
+	float: left;
+}
+
+#menu{
+	float: right;
+	padding: 12px;
+}
+
+.verde{
+	color: green;
+}
+
+#conteudo{
+	margin: 10px auto;
+	width: 720px;
+}
+
+.post{
+	background: #FFF;
+	color: green;
+	margin-bottom: 5px;
+	padding: 10px;
+}
+
+.post h2{
+	color: black;
+}
+
+.post p{
+	font-style: "Trebuchet MS";
+}
+
+a{
+	text-decoration: none;
+}
+
+a:link{
+	color: blue;
+}
+
+a:visited{
+	color: blue;
+}
+
+a:hover{
+	color: green;
+}
+
+a:active{
+	color: white;
+	background: green;
+}
